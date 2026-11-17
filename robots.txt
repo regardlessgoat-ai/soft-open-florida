@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://regardlessgoat-ai.github.io/soft-open-florida/sitemap.xml
